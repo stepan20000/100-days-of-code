@@ -1,24 +1,19 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+### Day 0: January 3, 2017, Tuesday
 
 
+### Day 1: January 4, 2017, Wednesday
+##### 
+
+**Today's Progress**: Finished Random Quote Machin.  But have a problem with ajax when publish on GitHub pages. https://forum.freecodecamp.com/t/cant-receive-json-with-getjson-or-ajax-when-publish-on-github-pages/72438  
+
+**Thoughts**: Why it's not working on github???
+
+**Link(s) to work**: https://stepan20000.github.io/Random_Quote_Machine
+
+
+############################################################################################
 ### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
