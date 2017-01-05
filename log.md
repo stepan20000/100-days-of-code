@@ -12,6 +12,20 @@
 
 **Link(s) to work**: https://stepan20000.github.io/Random_Quote_Machine
 
+### Day 2: January 5, 2017, Thursday
+##### 
+
+**Today's Progress**: Finished Random Quote Machin and make it works on published on the GitHub page. 
+Thanks to bengitter.github.io. He show me a problem. The browser goes to GitHub website on https protocol and then try to
+download a quote from http://quotes.stormconsultancy.co.uk/random.json on http protocol this generates a Mixed Content
+error. So I taked the code from here  https://github.com/Rob--W/cors-anywhere and adopted it for my
+Random Quote Mashine.  
+
+**Thoughts**: It was nice experience. Good feeling when your code works. Sometimes need help comrades.
+The Read-Ask-Search method works. 
+
+**Link(s) to work**: https://stepan20000.github.io/Random_Quote_Machine
+
 
 ############################################################################################
 ### Day 1: June 27, Monday
