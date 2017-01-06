@@ -10,7 +10,8 @@
 
 **Thoughts**: Why it's not working on github???
 
-**Link(s) to work**: https://stepan20000.github.io/Random_Quote_Machine
+**Link(s) to work**: 
+[Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
 
 ### Day 2: January 5, 2017, Thursday
 ##### 
@@ -24,16 +25,18 @@ Random Quote Mashine.
 **Thoughts**: It was nice experience. Good feeling when your code works. Sometimes need help comrades.
 The Read-Ask-Search method works. 
 
-**Link(s) to work**: https://stepan20000.github.io/Random_Quote_Machine
+**Link(s) to work**: 
+[Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
 
 
-############################################################################################
-### Day 1: June 27, Monday
+### Day 3: January 6, 2017, Friday
+##### 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Today I updated all my previous works and optimized my github repositories. I added all my works in to the one repository also made test repository for testing.  
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts**:  Only hard work can help to achieve results.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: 
+1. [My optimized github account](https://stepan20000.github.io/)
+
+
