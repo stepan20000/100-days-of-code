@@ -39,4 +39,12 @@ The Read-Ask-Search method works.
 **Link(s) to work**: 
 1. [My optimized github account](https://stepan20000.github.io/)
 
+### Day 4: January 7, 2017, Saturday
+##### 
 
+**Today's Progress**:  Started to work with the Show the Local Weather project. At the moment I can send the request and then receive json data from the openweathermap.org. Also I can  print this received data. 
+
+**Thoughts**:  spent a lot of time with little results. 
+
+**Link(s) to work**: 
+1. [My optimized github account](https://stepan20000.github.io/show_the_local_weather.html)
