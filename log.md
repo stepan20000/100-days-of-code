@@ -44,7 +44,17 @@ The Read-Ask-Search method works.
 
 **Today's Progress**:  Started to work with the Show the Local Weather project. At the moment I can send the request and then receive json data from the openweathermap.org. Also I can  print this received data. 
 
-**Thoughts**:  spent a lot of time with little results. 
+**Thoughts**:  Spent a lot of time with little results. 
 
 **Link(s) to work**: 
-1. [My optimized github account](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+
+### Day 5: January 8, 2017, Sunday
+##### 
+
+**Today's Progress**:  All day try to have a deal with navigator.geolocation.getCurrentPosition, thought that should run it in sync mode. Theт understood that just can call the getWeather function from the getLocation function. Facepalm. 
+
+**Thoughts**:  Spent a lot of time with little results again. Why am I so uninteligent.  
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
