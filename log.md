@@ -52,7 +52,7 @@ The Read-Ask-Search method works.
 ### Day 5: January 8, 2017, Sunday
 ##### 
 
-**Today's Progress**:  All day try to have a deal with navigator.geolocation.getCurrentPosition, thought that should run it in sync mode. Theт understood that just can call the getWeather function from the getLocation function. Facepalm. 
+**Today's Progress**:  All day try to have a deal with navigator.geolocation.getCurrentPosition, thought that should run it in sync mode. Then understood that just can call the getWeather function from the getLocation function. Facepalm. 
 
 **Thoughts**:  Spent a lot of time with little results again. Why am I so uninteligent.  
 
