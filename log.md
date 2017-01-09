@@ -58,3 +58,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+
+### Day 6: January 9, 2017, Monday
+##### 
+
+**Today's Progress**: Worked with the Show the Local Weather project. At the moment I can receive the weather data from the https://openweathermap.org/current#geo and write to the page all what I need. Also I can obtain the location and receive the weather parameters for current location. And I can obtain the current date with specified format. Now is the point for a design. 
+
+**Thoughts**:  From this point I can directly create the Project. Work much more interesting when you already know what and how to do it.  
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
