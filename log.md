@@ -68,3 +68,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+
+## Day 7 January 10, 2017, Tuesday
+##### 
+
+**Today's Progress**: Obtained all information from the json and place it in to the page.
+
+**Thoughts**:  Somehow, work very slowly.
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
