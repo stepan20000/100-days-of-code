@@ -88,3 +88,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+
+## Day 9 January 12, 2017, Thursday
+##### 
+
+**Today's Progress**: Worked with styling. Learned how to apply shadow and bordering to the text, realized that backdrop-filter doesn't work in firefox and I can make Local Weather with bootstrap. 
+
+**Thoughts**:  Suppose not great but there is progress 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
