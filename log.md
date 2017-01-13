@@ -98,3 +98,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+
+## Day 0 January 13, 2017, Friday
+##### 
+
+**Today's Progress**: Finished my Local Weather viewer.
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
