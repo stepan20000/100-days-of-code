@@ -99,12 +99,22 @@ The Read-Ask-Search method works.
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
 
-## Day 0 January 13, 2017, Friday
+## Day 10 January 13, 2017, Friday
 ##### 
 
 **Today's Progress**: Finished my Local Weather viewer.
 
 **Thoughts**: 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+
+## Day 11 January 14, 2017, Saturday
+##### 
+
+**Today's Progress**: Started the Wikipedia Viewer project. Today I coded not much, about an hour. 
+
+**Thoughts**: I did not think today :)
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
