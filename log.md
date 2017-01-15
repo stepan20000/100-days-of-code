@@ -117,4 +117,14 @@ The Read-Ask-Search method works.
 **Thoughts**: I did not think today :)
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+
+## Day 12 January 15, 2017, Sanday
+##### 
+
+**Today's Progress**:Played a bit with the wikipedia api. Received the json from wikipedia. Looked at the completed projects.
+
+**Thoughts**: I still do not know so many things. Very much to learn.
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
