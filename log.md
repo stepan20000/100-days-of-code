@@ -119,12 +119,22 @@ The Read-Ask-Search method works.
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
 
-## Day 12 January 15, 2017, Sanday
+## Day 12 January 15, 2017, Sunday
 ##### 
 
 **Today's Progress**:Played a bit with the wikipedia api. Received the json from wikipedia. Looked at the completed projects.
 
 **Thoughts**: I still do not know so many things. Very much to learn.
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+
+## Day 13 January 16, 2017, Monday
+##### 
+
+**Today's Progress**: I can obtain the text entered by the user to the text field and then use it in javascript code. Read the jQuery tutorial.
+
+**Thoughts**: Need to work more. 
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
