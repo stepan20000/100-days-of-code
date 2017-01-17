@@ -138,3 +138,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+
+## Day 14 January 17, 2017, Tuesday
+##### 
+
+**Today's Progress**: Today a complete all functionality of my Wikipedia Viewer. 
+
+**Thoughts**: Somehow everything was easy 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
