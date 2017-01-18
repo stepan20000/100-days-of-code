@@ -148,3 +148,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+
+## Day 15 January 18, 2017, Wednesday
+##### 
+
+**Today's Progress**: Added the autofilling of the input text field and then automaticaly results displaying and cleaning. Wonr to add two symple styling states for the page with and without results displayed.
+
+**Thoughts**: At the moment the thing most hard for me is the styling.
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
