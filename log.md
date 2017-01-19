@@ -158,3 +158,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+
+## Day 16 January 19, 2017, Thursday
+##### 
+
+**Today's Progress**: Finished my Wikipedia Search project on freeCodeCamp.
+
+**Thoughts**: Not bad :)
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
