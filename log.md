@@ -168,3 +168,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+
+## Day 17 January 20, 2017, Friday
+##### 
+
+**Today's Progress**: Started the twitchtv project. Just tried to understand all this. Didn't code a lot.
+
+**Thoughts**: Don't know. That is a bit complicated at the moment
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
