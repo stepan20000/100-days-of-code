@@ -178,3 +178,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 18 January 21, 2017, Saturday
+##### 
+
+**Today's Progress**: Today I nad a deal with the online and offline chanels on tvitch tv. Realised thet I have to make to requests  first to the "twitch-api/streams/" for defining whether the channel is onlime or not and second "twitch-api/channels/" for taking other info. Now  I should decide how to make this two requests in what order and how to make a loop(two loops or one loop). Remember that $.getJSON is asynch. At the moment I can make requests ond receive info from tvitch tv api I also figured out what and where is needed info in the tvitch tv api response.  
+
+**Thoughts**: I am not happy with the speed of my progress
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
