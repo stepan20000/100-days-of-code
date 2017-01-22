@@ -188,3 +188,14 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+
+## Day 19 January 22, 2017, Sunday
+##### 
+
+**Today's Progress**: Worked with the twitch tv project only a bit. Маde requests and succesfully write result to the page.  
+
+**Thoughts**: I used the trick that I read in the [You Don't Know JavaScript book](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md). Reading books is usefull even if you don't understand much  
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
