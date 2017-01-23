@@ -199,3 +199,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 20 January 23, 2017, Monday
+##### 
+
+**Today's Progress**: Fixed the bugs so at the moment script displays really correct information. It remains to make the styling.
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
