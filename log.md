@@ -209,3 +209,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 21 January 24, 2017, Tuesday
+##### 
+
+**Today's Progress**: Didn't reach any significant results with the twitchtv. Did't know what I have done exactly. But I have written some code. Just tried to construct a design of the project
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
