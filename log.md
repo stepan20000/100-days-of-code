@@ -219,3 +219,13 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 22 January 25, 2017, Wednesday
+##### 
+
+**Today's Progress**: Just read again the bootstrap documentation an added some styling to the project. Added a navbar and three button-radiobutton. But now I know how to change the colors snd styling of the bootsrap elements.
+
+**Thoughts**: Last few days my results was pure. I will try to catch up tomorrow. Styling and html layout are steel hard for me.
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
