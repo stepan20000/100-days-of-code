@@ -229,3 +229,19 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+Day 23 January 26, 2017, Thursday
+##### 
+
+**Today's Progress**: I decided to describe more carefully todays progress.
+  - Wrote the status and channel name into the one column
+  - Vertical aligned all columns in the grid
+  - Added an ID to the each row and use this ID to write results
+  - Wrapped the code which write results to the page in to the printResult function
+  - Made radiobuttons "all", "online" and "offline" work 
+  - Added styling 
+
+**Thoughts**: I must use time management
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
