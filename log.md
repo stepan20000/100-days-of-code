@@ -230,7 +230,7 @@ The Read-Ask-Search method works.
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
 
-Day 23 January 26, 2017, Thursday
+## Day 23 January 26, 2017, Thursday
 ##### 
 
 **Today's Progress**: I decided to describe more carefully todays progress.
@@ -242,6 +242,17 @@ Day 23 January 26, 2017, Thursday
   - Added styling 
 
 **Thoughts**: I must use time management
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 24 January 27, 2017, Friday
+##### 
+
+**Today's Progress**: 
+  - Added a text-field with autocomplete option
+
+**Thoughts**: 
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
