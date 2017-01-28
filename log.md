@@ -256,3 +256,15 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 25 January 28, 2017, Saturday
+##### 
+
+**Today's Progress**: 
+  - A user can type to the text-field the username and then informerion appears on the top of the result div.
+  - Optimized my JavaScript functions. Create the functions fillRow (fills the row with the corresponding information), printResult(prints the info of streamers in the userNames array), addResult(prints an info of the username entered to the text-field), filterResults(make the filtering radiobutton works) 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
