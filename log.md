@@ -268,3 +268,14 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 26 January 29, 2017, Sunday
+##### 
+
+**Today's Progress**: 
+  - This day progress is not big. I tried to make better my ugly mixed type buttons(with radio input symmbol). If I add attribute data-toggle="buttons" to my buttons div, my event listener doesn't work but buttons are free from the radio symbol. I don't know why event listener stop work inn this case. 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
