@@ -290,3 +290,15 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 28 January 31, 2017, Tuesday
+##### 
+
+**Today's Progress**: 
+- Made the buttons to type="radio", data-toggle="buttons" didn't use $("input[type=radio]").hide(), changed event listeners to $('.btn-group').on('click', and then check the event.target.id 
+- Figured out how to change background for the bootstrap's buttons and for different states of a buttons
+
+**Thoughts**:  Plan to finish Twitch tv tomorrow. Need to make nice buttons color, add a anchor to the rows with results, may be add some styling, bring the code to the good conditions.
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
