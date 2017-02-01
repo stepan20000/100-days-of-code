@@ -302,3 +302,14 @@ The Read-Ask-Search method works.
 
 **Link(s) to work**: 
 1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+
+## Day 29 February 1, 2017, Wednesday
+##### 
+
+**Today's Progress**: 
+Finished Twitchtv project. Did all I planned yesterday. 
+
+**Thoughts**:  Need to bring in a decent view all my works (add footer, remove the head contents from the body and put it to the stuff for head field on the codepen, vertical align content of the tribute page etc. ).
+
+**Link(s) to work**: 
+1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
