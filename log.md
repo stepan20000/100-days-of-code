@@ -11,7 +11,7 @@
 **Thoughts**: Why it's not working on github???
 
 **Link(s) to work**: 
-[Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
+1. [Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
 
 ### Day 2: January 5, 2017, Thursday
 ##### 
@@ -26,7 +26,7 @@ Random Quote Mashine.
 The Read-Ask-Search method works. 
 
 **Link(s) to work**: 
-[Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
+1. [Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
 
 
 ### Day 3: January 6, 2017, Friday
@@ -117,7 +117,7 @@ The Read-Ask-Search method works.
 **Thoughts**: I did not think today :)
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
 
 ## Day 12 January 15, 2017, Sunday
 ##### 
@@ -127,7 +127,7 @@ The Read-Ask-Search method works.
 **Thoughts**: I still do not know so many things. Very much to learn.
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
 
 ## Day 13 January 16, 2017, Monday
 ##### 
@@ -137,7 +137,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Need to work more. 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
 
 ## Day 14 January 17, 2017, Tuesday
 ##### 
@@ -147,7 +147,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Somehow everything was easy 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
 
 ## Day 15 January 18, 2017, Wednesday
 ##### 
@@ -157,7 +157,7 @@ The Read-Ask-Search method works.
 **Thoughts**: At the moment the thing most hard for me is the styling.
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
 
 ## Day 16 January 19, 2017, Thursday
 ##### 
@@ -167,7 +167,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Not bad :)
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
 
 ## Day 17 January 20, 2017, Friday
 ##### 
@@ -177,7 +177,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Don't know. That is a bit complicated at the moment
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 18 January 21, 2017, Saturday
 ##### 
@@ -187,7 +187,7 @@ The Read-Ask-Search method works.
 **Thoughts**: I am not happy with the speed of my progress
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 
 ## Day 19 January 22, 2017, Sunday
@@ -198,7 +198,7 @@ The Read-Ask-Search method works.
 **Thoughts**: I used the trick that I read in the [You Don't Know JavaScript book](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20%26%20closures/ch5.md). Reading books is usefull even if you don't understand much  
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 20 January 23, 2017, Monday
 ##### 
@@ -208,7 +208,7 @@ The Read-Ask-Search method works.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 21 January 24, 2017, Tuesday
 ##### 
@@ -218,7 +218,7 @@ The Read-Ask-Search method works.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 22 January 25, 2017, Wednesday
 ##### 
@@ -228,7 +228,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Last few days my results was pure. I will try to catch up tomorrow. Styling and html layout are steel hard for me.
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 23 January 26, 2017, Thursday
 ##### 
@@ -244,7 +244,7 @@ The Read-Ask-Search method works.
 **Thoughts**: I must use time management
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 24 January 27, 2017, Friday
 ##### 
@@ -255,7 +255,7 @@ The Read-Ask-Search method works.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 25 January 28, 2017, Saturday
 ##### 
@@ -267,7 +267,7 @@ The Read-Ask-Search method works.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 26 January 29, 2017, Sunday
 ##### 
@@ -278,7 +278,7 @@ The Read-Ask-Search method works.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 27 January 30, 2017, Monday
 ##### 
@@ -289,7 +289,7 @@ The Read-Ask-Search method works.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 28 January 31, 2017, Tuesday
 ##### 
@@ -301,7 +301,7 @@ The Read-Ask-Search method works.
 **Thoughts**:  Plan to finish Twitch tv tomorrow. Need to make nice buttons color, add a anchor to the rows with results, may be add some styling, bring the code to the good conditions.
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 
 ## Day 29 February 1, 2017, Wednesday
 ##### 
@@ -312,4 +312,17 @@ Finished Twitchtv project. Did all I planned yesterday.
 **Thoughts**:  Need to bring in a decent view all my works (add footer, remove the head contents from the body and put it to the stuff for head field on the codepen, vertical align content of the tribute page etc. ).
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/twitchtv.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
+
+## Day 30 February 2, 2017, Thursday
+##### 
+
+**Today's Progress**: Brought to a decent view tribute page, wikipedia search and twitch tv projects on github and codepen (add footer, remove unnecessary comments, place the peace of code in rigth way on codepen etc.)
+
+
+**Thoughts**:  Tommorrow will do the same with Random Quote Machine and Show the Local Weather 
+
+**Link(s) to work**: 
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
+2. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
+3. [Tribute page](https://stepan20000.github.io/tribute_page.html)
