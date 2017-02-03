@@ -331,6 +331,9 @@ Finished Twitchtv project. Did all I planned yesterday.
 ##### 
 
 **Today's Progress**: Brought to a decent view Show the Local Weather and Random Quote Machine (add footer, remove unnecessary comments, place the peace of code in rigth way on codepen etc.)
+Free Code Camp's Intermediate Algorithm Scripting Section:
+- Completed the "Diff Two Arrays" task 
+- Compleeted the "Sum All Numbers in a Range" task 
 
 
 **Thoughts**: Should think about rebuilding my portfolio 
@@ -338,3 +341,5 @@ Finished Twitchtv project. Did all I planned yesterday.
 **Link(s) to work**: 
 1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/random_quote_machine.html)
 2. [Build a Wikipedia Viewer](https://stepan20000.github.io/show_the_local_weather.html)
+3. [Diff Two Arrays](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/DiffTwoArrays.js)
+4. [Sum All Numbers in a Range](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/SumAllNumbersInARange.js)
