@@ -334,6 +334,7 @@ Finished Twitchtv project. Did all I planned yesterday.
 Free Code Camp's Intermediate Algorithm Scripting Section:
 - Completed the "Diff Two Arrays" task 
 - Compleeted the "Sum All Numbers in a Range" task 
+- Completed "Roman Numeral Converter" task
 
 
 **Thoughts**: Should think about rebuilding my portfolio 
@@ -343,3 +344,4 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 2. [Build a Wikipedia Viewer](https://stepan20000.github.io/show_the_local_weather.html)
 3. [Diff Two Arrays](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/DiffTwoArrays.js)
 4. [Sum All Numbers in a Range](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/SumAllNumbersInARange.js)
+5. [Roman Numeral Converter](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/RomanNumeralConverter.js)
