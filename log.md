@@ -326,3 +326,15 @@ Finished Twitchtv project. Did all I planned yesterday.
 1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
 2. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
 3. [Tribute page](https://stepan20000.github.io/tribute_page.html)
+
+## Day 31 February 3, 2017, Friday
+##### 
+
+**Today's Progress**: Brought to a decent view Show the Local Weather and Random Quote Machine (add footer, remove unnecessary comments, place the peace of code in rigth way on codepen etc.)
+
+
+**Thoughts**: Should think about rebuilding my portfolio 
+
+**Link(s) to work**: 
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/random_quote_machine.html)
+2. [Build a Wikipedia Viewer](https://stepan20000.github.io/show_the_local_weather.html)
