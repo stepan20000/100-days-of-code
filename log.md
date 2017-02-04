@@ -345,3 +345,17 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 3. [Diff Two Arrays](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/DiffTwoArrays.js)
 4. [Sum All Numbers in a Range](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/SumAllNumbersInARange.js)
 5. [Roman Numeral Converter](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/RomanNumeralConverter.js)
+
+
+## Day 32 February 4, 2017, Saturday
+##### 
+
+**Today's Progress**:
+Free Code Camp's Intermediate Algorithm Scripting Section:
+- Completed the "Wherefore art thou" task 
+
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Wherefore art thou](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/WhereforeArtThou.js)
