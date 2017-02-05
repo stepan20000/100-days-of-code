@@ -354,8 +354,20 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 Free Code Camp's Intermediate Algorithm Scripting Section:
 - Completed the "Wherefore art thou" task 
 
-
 **Thoughts**:  
 
 **Link(s) to work**: 
 1. [Wherefore art thou](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/WhereforeArtThou.js)
+
+
+## Day 33 February 5, 2017, Sunday
+##### 
+
+**Today's Progress**:
+Free Code Camp's Intermediate Algorithm Scripting Section:
+- Completed the "Search And Replace" task 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Search And Replace](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/SearchAndReplace.js)
