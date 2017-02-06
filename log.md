@@ -342,9 +342,7 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Link(s) to work**: 
 1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/random_quote_machine.html)
 2. [Build a Wikipedia Viewer](https://stepan20000.github.io/show_the_local_weather.html)
-3. [Diff Two Arrays](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/DiffTwoArrays.js)
-4. [Sum All Numbers in a Range](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/SumAllNumbersInARange.js)
-5. [Roman Numeral Converter](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/RomanNumeralConverter.js)
+3. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
 
 
 ## Day 32 February 4, 2017, Saturday
@@ -357,7 +355,7 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Thoughts**:  
 
 **Link(s) to work**: 
-1. [Wherefore art thou](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/WhereforeArtThou.js)
+1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
 
 
 ## Day 33 February 5, 2017, Sunday
@@ -370,4 +368,14 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Thoughts**:  
 
 **Link(s) to work**: 
-1. [Search And Replace](https://github.com/stepan20000/IntermediateAlgorithmScripting/blob/master/SearchAndReplace.js)
+1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
+
+## Day 34 February 6, 2017, Monday
+##### 
+
+**Today's Progress**: Completed the Pig Latin, DNA Pairing, Missing letters, Boo who, Sorted Union tasks. Deleted specific files and place all code to the README.md file.
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
