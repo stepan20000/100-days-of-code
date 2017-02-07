@@ -379,3 +379,13 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
+
+## Day 35 February 7, 2017, Tuesday
+##### 
+
+**Today's Progress**: Completed Spinal Tap Case and Convert HTML Entities tasks. Try to rebuild the portfolio.
+
+**Thoughts**: Need to make a plan for rebuilding the portfolio. The main thing is a design, and the most hard for me is to create a model.  
+
+**Link(s) to work**: 
+1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
