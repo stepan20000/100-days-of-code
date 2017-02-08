@@ -389,3 +389,14 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
+
+
+## Day 36 February 8, 2017, Wednesday
+##### 
+
+**Today's Progress**: Completed Sum All Odd Fibonacci Numbers, Sum All Primes, Smallest Common Multiple, Finders Keepers and Drop in tasks in Intermediate Algorithm Scripting section.
+
+**Thoughts**: I'm affraid of working with the portfolio :)
+
+**Link(s) to work**: 
+1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
