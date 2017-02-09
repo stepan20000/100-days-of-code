@@ -400,3 +400,13 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
+
+## Day 37 February 9, 2017, Thursday
+##### 
+
+**Today's Progress**: Completed Intermediate Algorithm Scripting section
+
+**Thoughts**:
+
+**Link(s) to work**: 
+1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
