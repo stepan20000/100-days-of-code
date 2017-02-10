@@ -410,3 +410,13 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
+
+## Day 38 February 10, 2017, Friday
+##### 
+
+**Today's Progress**: Completed Validate US Telephone Numbers and Record Collection  from Advanced Algorithm Scripting Section.
+
+**Thoughts**:
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
