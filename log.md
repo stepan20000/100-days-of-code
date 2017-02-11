@@ -420,3 +420,13 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+
+## Day 39 February 11, 2017, Saturday
+##### 
+
+**Today's Progress**: Started to work with portfolio_ver_0
+
+**Thoughts**:
+
+**Link(s) to work**: 
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
