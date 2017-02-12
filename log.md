@@ -439,4 +439,4 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Thoughts**: As a comments is a part of code theoretical I can consider that I coded this day. So I added this day to the 100DaysOfCode challenge. 
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
