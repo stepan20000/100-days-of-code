@@ -430,3 +430,13 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 40 February 12, 2017, Sunday
+##### 
+
+**Today's Progress**: I found this portfolio http://mkozhukharenko.github.io and in order to completely understand how ir works I wrote a comments to every line of it's code .  
+
+**Thoughts**: As a comments is a part of code theoretical I can consider that I coded this day. So I added this day to the 100DaysOfCode challenge. 
+
+**Link(s) to work**: 
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
