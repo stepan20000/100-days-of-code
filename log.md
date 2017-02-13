@@ -438,5 +438,12 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Thoughts**: As a comments is a part of code theoretical I can consider that I coded this day. So I added this day to the 100DaysOfCode challenge. 
 
-**Link(s) to work**: 
+## Day 41 February 13, 2017, Monnday
+##### 
 
+**Today's Progress**: Worked on the portfolio_ver_0.  Made the worksList.js - the array of the Works objects. 
+
+**Thoughts**: .
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
