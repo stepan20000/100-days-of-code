@@ -438,12 +438,22 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Thoughts**: As a comments is a part of code theoretical I can consider that I coded this day. So I added this day to the 100DaysOfCode challenge. 
 
-## Day 41 February 13, 2017, Monnday
+## Day 41 February 13, 2017, Monday
 ##### 
 
 **Today's Progress**: Worked on the portfolio_ver_0.  Made the worksList.js - the array of the Works objects. 
 
-**Thoughts**: .
+**Thoughts**:
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 42 February 14, 2017, Tuesday
+##### 
+
+**Today's Progress**: Worked on the portfolio_ver_0 again. For now can dynamically fill in the "works" section. Try to work with flexbox. Use Clearfix and resetCSS. 
+
+**Thoughts**: The make up is still hard for me. I am disquieted about the very low speed of progress. It is not hard to understand a things but hard to use it, hard to create a real web pages. 
 
 **Link(s) to work**: 
 1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
