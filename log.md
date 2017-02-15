@@ -457,3 +457,12 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 43 February 15, 2017, Wednesday
+##### 
+
+**Today's Progress**: Completed the Symmetric Difference task from Advanced Algorithm Scripting Section.  
+ 
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
