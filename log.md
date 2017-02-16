@@ -466,3 +466,21 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+
+## Day 44 February 16, 2017, Thursday
+##### 
+
+**Today's Progress**: Optimized the Symmetric Difference task script from Advanced Algorithm Scripting Section.
+Make the arrays provided as argumments to contains unique value before start found the  Symmetric Difference.
+
+Worked a bit with portfolio_ver_0:
+- Correctly zoomed and placed the single-work divs 
+- Started to figure out how to make animation which I want.
+
+**Thoughts**: Why I often don't have  any thoughts?  
+
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+2. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
