@@ -484,3 +484,16 @@ Worked a bit with portfolio_ver_0:
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
 2. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
+
+## Day 45 February 17, 2017, Friday
+##### 
+
+**Today's Progress**: Worked agin with portfolio_ver_0:
+- Positioned single work divs with the flexbox
+- Make single work's animation
+
+**Thoughts**: The brain gets tired. Need Time Management
+
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
