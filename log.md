@@ -497,3 +497,14 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 46 February 18, 2017, Saturday
+##### 
+
+**Today's Progress**: Completed the Exact Change task from the Advanced Algorithm Scripting section
+
+**Thoughts**: 
+
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
