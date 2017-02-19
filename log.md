@@ -505,6 +505,17 @@ Worked a bit with portfolio_ver_0:
 
 **Thoughts**: 
 
-
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+
+
+## Day 47 February 19, 2017, Sunday
+##### 
+
+**Today's Progress**: Made the portfolio_ver_0 a bit more adaptive using @media.
+
+**Thoughts**: 
+
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
