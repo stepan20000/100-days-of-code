@@ -519,3 +519,14 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 48 February 20, 2017, Monday
+##### 
+
+**Today's Progress**:  Made the contact section of portfolio with buttons. Also worked with make up.
+
+**Thoughts**: Make up is so hard for me. 
+
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
