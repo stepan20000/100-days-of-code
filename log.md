@@ -530,3 +530,16 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 49 February 21, 2017, Tuesday
+##### 
+
+**Today's Progress**:  Worked with portfolio styling. 
+- Found the devicon.fr
+- Found out how to make fixed overlay background but will not use it for current portfolio
+
+**Thoughts**: Today my portfolio is better than yesterday. Will start from small screen @media screen and (max-width: 755px) and then move to the larger widths.
+
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
