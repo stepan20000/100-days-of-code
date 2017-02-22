@@ -543,3 +543,13 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 50 February 22, 2017, Wednesday
+##### 
+
+**Today's Progress**:  Two hours of clicking on portfolio and a little changing of CSS in order to find out the general design of portfolio.
+
+**Thoughts**: The most complicated thing for me is design. 
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
