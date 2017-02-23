@@ -553,3 +553,13 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 51 February 23, 2017, Thursday
+##### 
+
+**Today's Progress**:  Completed the Inventory Update task from the Advanced Algorithm Section on FreeCodeCamp.
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
