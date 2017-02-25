@@ -563,3 +563,19 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+
+## Day 52 February 25, 2017, Saturday
+##### 
+
+**Today's Progress**:  Completed the No Repeats Please task. Using recursive Heap's algorithm http://ruslanledesma.com/2016/06/17/why-does-heap-work.html …
+
+
+**Thoughts**: https://medium.com/the-mission/this-morning-routine-will-save-you-20-hours-per-week-c3088cd2c685#.6uhjqz3lt
+	I should optimize my work day for improving the efficiency:
+	- start works earlier and work first 3 hours
+	- I should work or don't work without middle states
+	- Moove the most creative deal to the start of the day 
+	etc.  
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
