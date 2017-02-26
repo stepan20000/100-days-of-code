@@ -569,13 +569,22 @@ Worked a bit with portfolio_ver_0:
 
 **Today's Progress**:  Completed the No Repeats Please task. Using recursive Heap's algorithm http://ruslanledesma.com/2016/06/17/why-does-heap-work.html …
 
-
 **Thoughts**: https://medium.com/the-mission/this-morning-routine-will-save-you-20-hours-per-week-c3088cd2c685#.6uhjqz3lt
 	I should optimize my work day for improving the efficiency:
 	- start works earlier and work first 3 hours
 	- I should work or don't work without middle states
 	- Moove the most creative deal to the start of the day 
 	etc.  
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+
+## Day 53 February 26, 2017, Sunday
+#####
+
+**Today's Progress**:  Completed Friendly Date Ranges, Make a Person and Map the Debris tasks from the Advanced Algorithm Section on FreeCodeCamp.
+
+**Thoughts**: Will start new efficient life tomorrow  
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
