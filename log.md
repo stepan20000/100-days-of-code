@@ -588,3 +588,16 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+
+## Day 54 February 27, 2017, Monday
+#####
+
+**Today's Progress**:  Completed the Advanced Algorithm Section on FreeCodeCamp!!!.
+
+**Thoughts**:  Tried to be efficient: 
+- start works earlier and work first 3 hours
+- I should work or don't work without middle states
+- Moove the most creative deal to the start of the day 
+
+**Link(s) to work**: 
+1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
