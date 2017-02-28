@@ -446,7 +446,7 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Thoughts**:
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 ## Day 42 February 14, 2017, Tuesday
 ##### 
@@ -456,7 +456,7 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Thoughts**: The make up is still hard for me. I am disquieted about the very low speed of progress. It is not hard to understand a things but hard to use it, hard to create a real web pages. 
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 ## Day 43 February 15, 2017, Wednesday
 ##### 
@@ -482,7 +482,7 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
-2. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 
 ## Day 45 February 17, 2017, Friday
@@ -496,7 +496,7 @@ Worked a bit with portfolio_ver_0:
 
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 ## Day 46 February 18, 2017, Saturday
 ##### 
@@ -518,7 +518,7 @@ Worked a bit with portfolio_ver_0:
 
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 ## Day 48 February 20, 2017, Monday
 ##### 
@@ -529,7 +529,7 @@ Worked a bit with portfolio_ver_0:
 
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 ## Day 49 February 21, 2017, Tuesday
 ##### 
@@ -542,7 +542,7 @@ Worked a bit with portfolio_ver_0:
 
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 ## Day 50 February 22, 2017, Wednesday
 ##### 
@@ -552,7 +552,7 @@ Worked a bit with portfolio_ver_0:
 **Thoughts**: The most complicated thing for me is design. 
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
 ## Day 51 February 23, 2017, Thursday
 ##### 
@@ -610,4 +610,4 @@ Worked a bit with portfolio_ver_0:
 **Thoughts**:  
 
 **Link(s) to work**: 
-1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
