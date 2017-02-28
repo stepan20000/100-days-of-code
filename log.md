@@ -601,3 +601,13 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
+
+## Day 55 February 28, 2017, Tuesday
+#####
+
+**Today's Progress**:  Make the the "back to top" button which appeats after some scroling to the bottom and disappears when scroling back to the top. And after clicking on it the page will automaticaly slowly scroll to the top. 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Portfolio_vqr_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
