@@ -611,3 +611,14 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Day 56 March 01, 2017, Wednesday
+#####
+
+**Today's Progress**:  Worked a bit with portfolio. Made replacing of some div elements from on location to another with the JS. Place the function scrollToTop to the global context and avoid the related global variable.
+Made the event.preventDefault work for the back-to-top button. 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
