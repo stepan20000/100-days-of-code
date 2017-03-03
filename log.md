@@ -634,3 +634,13 @@ Made the event.preventDefault work for the back-to-top button.
 **Link(s) to work**: 
 1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
+## Day 58 March 03, 2017, Friday
+#####
+
+**Today's Progress**: Technically I have finished portfolio. All is working nice, only fonts colors and maybe some styling remains to be done.    
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
