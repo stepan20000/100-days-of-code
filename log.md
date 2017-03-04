@@ -644,3 +644,14 @@ Made the event.preventDefault work for the back-to-top button.
 **Link(s) to work**: 
 1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
+
+## Day 59 March 04, 2017, Saturday
+#####
+
+**Today's Progress**: Started to build the calculator. 
+
+**Thoughts**:  I think to make a project similar to the old Soviet calculator with green digits :)
+
+**Link(s) to work**: 
+1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
