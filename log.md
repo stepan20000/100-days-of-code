@@ -655,3 +655,12 @@ Made the event.preventDefault work for the back-to-top button.
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 
+## Day 60 March 05, 2017, Sunday
+#####
+
+**Today's Progress**: Made the calculator body and switch on-off button.  
+
+**Thoughts**: Huge progress today.
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
