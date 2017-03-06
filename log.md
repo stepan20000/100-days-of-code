@@ -664,3 +664,14 @@ Made the event.preventDefault work for the back-to-top button.
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+
+
+## Day 61 March 06, 2017, Monday
+#####
+
+**Today's Progress**: Made styling for calculator. Added keys, screen with digits etc.   
+
+**Thoughts**: It should look like old USSR made primitive calculator.
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
