@@ -675,3 +675,13 @@ Made the event.preventDefault work for the back-to-top button.
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+
+## Day 62 March 07, 2017, Tuesday
+#####
+
+**Today's Progress**: Added some styling to the calculator. Also made to work onOfswitch.     
+
+**Thoughts**: I know that calculator can be made with the procedure style program. I tried to make it with "OOP" style. Just because I want to figure out how this is done in javascript. I want to understand how to use "this" and encapsulate my code from everything else in one constructor function and one object.
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
