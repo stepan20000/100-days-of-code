@@ -685,3 +685,16 @@ Made the event.preventDefault work for the back-to-top button.
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+
+## Day 63 March 09, 2017, Thursday
+#####
+
+**Today's Progress**: Make the function MakeCalc.prototype._showOnScreen which displays on the screen the number given as a parameter. This function is not competed.
+
+**Thoughts**:  I want my calculator works similar to the Elektronica MK-23A. When the result is more than 99999999 it should display the value without last digits and
+all dots should be visible then after pressing the "Clear" button should be displayed one dot in place which correspond the number of digits that are not displayed. 
+
+Will make this functionality tomorrow
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
