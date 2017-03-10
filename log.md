@@ -701,3 +701,13 @@ Then event handler which correspond to the "Clear" button will read this flag
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+
+## Day 64 March 10, 2017, Friday
+#####
+
+**Today's Progress**: Now _showOnScreen function really working normal. And I started to make keyboard.
+
+**Thoughts**:  Everything goes different than I planned first. It is really interesting.
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
