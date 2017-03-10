@@ -691,10 +691,13 @@ Made the event.preventDefault work for the back-to-top button.
 
 **Today's Progress**: Make the function MakeCalc.prototype._showOnScreen which displays on the screen the number given as a parameter. This function is not competed.
 
-**Thoughts**:  I want my calculator works similar to the Elektronica MK-23A. When the result is more than 99999999 it should display the value without last digits and
-all dots should be visible then after pressing the "Clear" button should be displayed one dot in place which correspond the number of digits that are not displayed. 
+**Thoughts**:  I want my calculator works similar to the Elektronica MK-23A. When the result is more than 99999999 it should display the value without last digits and all dots should be visible. Then after pressing the "Clear" button the only one dot in place which correspond the number of digits which are not displayed should be visible. 
 
-Will make this functionality tomorrow
+Will make this functionality tomorrow.
+If the number is over 99999999 the function set the this.overflowFlag to true and every time to be executed this function save the current number to the this.currentNumberDisplayed. 
+
+Then event handler which correspond to the "Clear" button will read this flag
+
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
