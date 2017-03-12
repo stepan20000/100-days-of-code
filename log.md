@@ -711,3 +711,15 @@ Then event handler which correspond to the "Clear" button will read this flag
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+
+## Days 65-66 March 11-12, 2017, Saturday-Sunday
+#####
+
+**Today's Progress**: 
+- Added styling to portfolio (new backgrounds, colors etc.). 
+- Almost finished the calculator, It is only necessary to find bugs if they are.
+
+**Thoughts**:  Need to add nice fonts to portfolio and fix small details and complete testing of the calculator. 
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
