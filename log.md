@@ -723,3 +723,13 @@ Then event handler which correspond to the "Clear" button will read this flag
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+
+## Days 67 March 13, 2017, Monday
+#####
+
+**Today's Progress**: Trying to understand how JS generators work, ran various code examples.
+
+**Thoughts**:  There is still something I should understand,  need to make efforts and spend time
+
+**Link(s) to work**: 
+
