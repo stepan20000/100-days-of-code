@@ -733,3 +733,14 @@ Then event handler which correspond to the "Clear" button will read this flag
 
 **Link(s) to work**: 
 
+## Days 68 March 14, 2017, Tuesday
+#####
+
+**Today's Progress**: Think that I have finished the portfolio_ver_0.
+Searched and fixed bugs in the calculator. Think that there are still enough bugs
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
