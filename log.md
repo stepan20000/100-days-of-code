@@ -744,3 +744,18 @@ Searched and fixed bugs in the calculator. Think that there are still enough bug
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Days 69 March 15, 2017, Wednesday
+#####
+
+**Today's Progress**: 
+Made portfolio_ver_0-1 with white background. 
+Fixed next bugs in portfolio:
+- Remove the height: 100% CSS property from single-work image (the images was very long on android mobile devices)
+- Rebuild the makeScrolling function, made scrolling smoothly not only in Firefox but also in IE, Opera and Chrome
+- Worked with small display styling 
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
