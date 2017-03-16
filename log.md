@@ -759,3 +759,14 @@ Fixed next bugs in portfolio:
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Days 70 March 16, 2017, Thursday
+#####
+
+**Today's Progress**: Finished portfolio_ver_0 and portfolio_ver_0-1. Also finished calculator.
+
+**Thoughts**:  Have a bug, calculator does't work on Android default browser (but works on android Chrome)! Will try to fix it using Chrome developer tools and USB debug. 
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
+2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
