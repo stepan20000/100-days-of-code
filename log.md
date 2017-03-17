@@ -770,3 +770,16 @@ Fixed next bugs in portfolio:
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+
+## Days 71 March 17, 2017, Friday
+#####
+
+**Today's Progress**:  Fixed the bug with calculator on Android default browser. Completely finished the claculator.
+
+**Thoughts**:  
+The loops for(... of ...) anb CSS propertytext-align-last:  doesn't work in default android browser.
+
+Let's start the Pomodoro timer!!
+
+**Link(s) to work**: 
+1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
