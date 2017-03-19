@@ -791,6 +791,15 @@ Let's start the Pomodoro timer!!
 
 **Thoughts**:  
 
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Days 73 March 19, 2017, Sunday
+#####
+
+**Today's Progress**: Thanks to https://tallys.github.io/color-theory/  begin to learn about SASS and LESS. Although the article is not about this.
+
+**Thoughts**:  No so much progress today but I descoverod something interesting and new for myself. Tryed to paint primitive figure with CSS.
 
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
