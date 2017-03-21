@@ -813,3 +813,13 @@ Let's start the Pomodoro timer!!
 
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Days 75 March 21, 2017, Tuesday
+#####
+
+**Today's Progress**: Made the box, buttons and dial for Pomodoro Timer. Today I really started the project. 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
