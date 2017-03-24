@@ -712,7 +712,7 @@ Then event handler which correspond to the "Clear" button will read this flag
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 
-## Days 65-66 March 11-12, 2017, Saturday-Sunday
+## Day 65-66 March 11-12, 2017, Saturday-Sunday
 #####
 
 **Today's Progress**: 
@@ -724,7 +724,7 @@ Then event handler which correspond to the "Clear" button will read this flag
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 
-## Days 67 March 13, 2017, Monday
+## Day 67 March 13, 2017, Monday
 #####
 
 **Today's Progress**: Trying to understand how JS generators work, ran various code examples.
@@ -733,7 +733,7 @@ Then event handler which correspond to the "Clear" button will read this flag
 
 **Link(s) to work**: 
 
-## Days 68 March 14, 2017, Tuesday
+## Day 68 March 14, 2017, Tuesday
 #####
 
 **Today's Progress**: Think that I have finished the portfolio_ver_0.
@@ -745,7 +745,7 @@ Searched and fixed bugs in the calculator. Think that there are still enough bug
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
-## Days 69 March 15, 2017, Wednesday
+## Day 69 March 15, 2017, Wednesday
 #####
 
 **Today's Progress**: 
@@ -760,7 +760,7 @@ Fixed next bugs in portfolio:
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
-## Days 70 March 16, 2017, Thursday
+## Day 70 March 16, 2017, Thursday
 #####
 
 **Today's Progress**: Finished portfolio_ver_0 and portfolio_ver_0-1. Also finished calculator.
@@ -771,7 +771,7 @@ Fixed next bugs in portfolio:
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
 
-## Days 71 March 17, 2017, Friday
+## Day 71 March 17, 2017, Friday
 #####
 
 **Today's Progress**:  Fixed the bug with calculator on Android default browser. Completely finished the claculator.
@@ -784,7 +784,7 @@ Let's start the Pomodoro timer!!
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
 
-## Days 72 March 18, 2017, Saturday
+## Day 72 March 18, 2017, Saturday
 #####
 
 **Today's Progress**:  Started to make Pomodoro Clock.
@@ -794,7 +794,7 @@ Let's start the Pomodoro timer!!
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
 
-## Days 73 March 19, 2017, Sunday
+## Day 73 March 19, 2017, Sunday
 #####
 
 **Today's Progress**: Thanks to https://tallys.github.io/color-theory/  begin to learn about SASS and LESS. Although the article is not about this.
@@ -804,7 +804,7 @@ Let's start the Pomodoro timer!!
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
 
-## Days 74 March 20, 2017, Monday
+## Day 74 March 20, 2017, Monday
 #####
 
 **Today's Progress**: Create the design of the pomodoro clock. Played with mixing colors with SCSS, tried to use functions etc.
@@ -814,10 +814,20 @@ Let's start the Pomodoro timer!!
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
 
-## Days 75 March 21, 2017, Tuesday
+## Day 75 March 21, 2017, Tuesday
 #####
 
 **Today's Progress**: Made the box, buttons and dial for Pomodoro Timer. Today I really started the project. 
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Days 76-77 March 22-23, 2017, Wednesday-Thursday
+#####
+
+**Today's Progress**: Worked with the pomodoro styling, finished it at 95%. Used SCSS for mixing colors. 
 
 **Thoughts**:  
 
