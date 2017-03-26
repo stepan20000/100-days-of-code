@@ -833,3 +833,13 @@ Let's start the Pomodoro timer!!
 
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Day 78 March 6, 2017, Sunday
+#####
+
+**Today's Progress**: Added some logic to the Pomodoro. Make all buttons works and the clock hands moving.  
+
+**Thoughts**:  Will try to use Promise for the async work my pomodoro. I know how to make pomodoro logic without any Promise but I want use it just to try. 
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
