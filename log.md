@@ -844,7 +844,7 @@ Let's start the Pomodoro timer!!
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
 
-## Day 79 March 27, 2017, Ьщnday
+## Day 79 March 27, 2017, Monday
 #####
 
 **Today's Progress**: Basically completed Pomodoro Timer. Need code rewiev and testing. At first sight everything works well. 
@@ -853,3 +853,19 @@ Let's start the Pomodoro timer!!
 
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Day 80 March 28, 2017, Tuesday
+#####
+
+**Today's Progress**: Worked with pomodoro 
+- Fixed bur with mooving #pomodoro after showing/hiding settings on the fullscreen.
+- Added sounds
+- Fixed bug with running multiple "this.play()" funcitons after quick consequentially pressing "play" and "stop" buttons many times
+- Also fixed some bugs with logic of the pomodoro (sequence of the workflow).
+
+**Thoughts**:  I'm fine fellow again. 
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+
