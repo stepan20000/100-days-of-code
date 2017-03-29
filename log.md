@@ -869,3 +869,15 @@ Let's start the Pomodoro timer!!
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
 
 
+## Day 81 March 29, 2017, Wednesday
+#####
+
+**Today's Progress**: Worked with pomodoro 
+- Added clock face highlighting when the timmer is working.
+- Somewhere corrected the logic. 
+
+**Thoughts**: Really spend 3 hours with pomodoro but don't remember what I exactly did. Tried to make an animation of screen border or a lines on a screen but didn't find nice decision. Because of Jquery is not work with pseudoelements. 
+
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
