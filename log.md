@@ -881,3 +881,19 @@ Let's start the Pomodoro timer!!
 
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Day 82 March 29, 2017, Wednesday
+#####
+
+**Today's Progress**: Pushed the stepan20000.github.io to the github, and fixed next bugs: 
+- In Opera, Chrome and IE the set Timer buttons(especially "+" buttons) did not work every time when was pressed(FF worked perfect!!).   It was because I placed the <p></p> tag inside the buttons and so sometimes the event target was the  <p></p> tag not the button was pressed. I remove <p></p> tags and just print "+" and "-" inside the buttons.
+- Align vertically "+" button, "-" button and value, just add vertical-align: middle property to the value class
+- Used this heavy plus symbol &#10133; for the  plus buttons
+- Shortened the pomodoro.scss file using @for loop for l1 - l6 and ln1 - ln30 elements and their's pseudo elements
+
+
+**Thoughts**: 
+
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
