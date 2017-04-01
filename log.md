@@ -882,7 +882,7 @@ Let's start the Pomodoro timer!!
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
 
-## Day 82 March 29, 2017, Wednesday
+## Day 82 March 30, 2017, Wednesday
 #####
 
 **Today's Progress**: Pushed the stepan20000.github.io to the github, and fixed next bugs: 
@@ -894,6 +894,29 @@ Let's start the Pomodoro timer!!
 
 **Thoughts**: 
 
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Day 83 March 30, 2017, Wednesday
+#####
+
+**Today's Progress**: Added words  "Pomodoro Timer" written in a circle using lettering.js.  
+
+
+**Thoughts**: 
+
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+
+## Day 84 April 1, 2017, Saturday
+#####
+
+**Today's Progress**: Completed Pomodoro Timer.
+
+**Thoughts**: !!!!
 
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
