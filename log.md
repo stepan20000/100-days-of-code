@@ -920,3 +920,14 @@ Let's start the Pomodoro timer!!
 
 **Link(s) to work**: 
 1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+
+## Day 85 April 2, 2017, Sunday
+#####
+
+**Today's Progress**: No progress today. I found bug with Pomodoro on Android, the plus symbol on the set timers buttons is red. I spent may be a hour for realise why. This symbol just red on Android and that is it :). No way to change it's color. 
+I also add the pomodoro project to the portfolio. 
+
+**Thoughts**: 
+
+**Link(s) to work**: 
+1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
