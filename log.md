@@ -930,7 +930,7 @@ I also add the pomodoro project to the portfolio.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
+1. [Tic Tac Toe Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/pomodoro.html)
 
 ## Day 86 April 4, 2017, Tuesday
 #####
@@ -939,4 +939,14 @@ I also add the pomodoro project to the portfolio.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Pomodoro Clock](https://github.com/stepan20000/stepan20000.github.io/blob/master/tic-tac-toe.html)
+1. [Tic Tac Toe Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/tic-tac-toe.html)
+
+## Day 86 April 4, 2017, Tuesday
+#####
+
+**Today's Progress**: Almost completed styling. Added logic to the user's choice of game parameters. 
+
+**Thoughts**: Have to start making logic for the game-flow.  
+
+**Link(s) to work**: 
+1. [Tic Tac Toe Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/tic-tac-toe.html)
