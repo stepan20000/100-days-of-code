@@ -980,3 +980,13 @@ I also add the pomodoro project to the portfolio.
 
 **Link(s) to work**: 
 1. [Tic Tac Toe Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/tic-tac-toe.html)
+
+## Day 92 April 11, 2017, Tuesday
+#####
+
+**Today's Progress**: All day working with algorithm for computer steps. Just got confused already in everything  
+
+**Thoughts**:  
+
+**Link(s) to work**: 
+1. [Tic Tac Toe Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/tic-tac-toe.html)
