@@ -1030,3 +1030,13 @@ I also add the pomodoro project to the portfolio.
 
 **Link(s) to work**: 
 1. [Tic Tac Toe Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/tic-tac-toe.html)
+
+## Day 98 April 16, 2017, Sunday
+#####
+
+**Today's Progress**: Not much code but started to think about Simon game.  
+
+**Thoughts**:  This is interesting task. 
+
+**Link(s) to work**: 
+1. [Simon Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/simon.html)
