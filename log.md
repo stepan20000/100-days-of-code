@@ -1050,3 +1050,13 @@ I also add the pomodoro project to the portfolio.
 
 **Link(s) to work**: 
 1. [Simon Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/simon.html)
+
+## Day 100 April 18, 2017, Tuesday
+#####
+
+**Today's Progress**: Added some code to the Simon. Partially made the controls panel.  
+
+**Thoughts**:   
+
+**Link(s) to work**: 
+1. [Simon Game](https://github.com/stepan20000/stepan20000.github.io/blob/master/simon.html)
