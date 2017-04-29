@@ -11,7 +11,7 @@
 **Thoughts**: Why it's not working on github???
 
 **Link(s) to work**: 
-1. [Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
+1. [Random-Quote-Machine](https://stepan20000.github.io/Random-Quote-Machine)
 
 ### Day 2: January 5, 2017, Thursday
 ##### 
@@ -26,7 +26,7 @@ Random Quote Mashine.
 The Read-Ask-Search method works. 
 
 **Link(s) to work**: 
-1. [Random_Quote_Machine](https://stepan20000.github.io/Random_Quote_Machine)
+1. [Random-Quote-Machine](https://stepan20000.github.io/Random-Quote-Machine)
 
 
 ### Day 3: January 6, 2017, Friday
@@ -47,7 +47,7 @@ The Read-Ask-Search method works.
 **Thoughts**:  Spent a lot of time with little results. 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show-the-local-weather.html)
 
 ### Day 5: January 8, 2017, Sunday
 ##### 
@@ -57,7 +57,7 @@ The Read-Ask-Search method works.
 **Thoughts**:  Spent a lot of time with little results again. Why am I so uninteligent.  
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show-the-local-weather.html)
 
 ### Day 6: January 9, 2017, Monday
 ##### 
@@ -67,7 +67,7 @@ The Read-Ask-Search method works.
 **Thoughts**:  From this point I can directly create the Project. Work much more interesting when you already know what and how to do it.  
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show-the-local-weather.html)
 
 ## Day 7 January 10, 2017, Tuesday
 ##### 
@@ -77,7 +77,7 @@ The Read-Ask-Search method works.
 **Thoughts**:  Somehow, work very slowly.
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show-the-local-weather.html)
 
 ## Day 8 January 11, 2017, Wednesday
 ##### 
@@ -87,7 +87,7 @@ The Read-Ask-Search method works.
 **Thoughts**:  Work very slowly. 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show-the-local-weather.html)
 
 ## Day 9 January 12, 2017, Thursday
 ##### 
@@ -97,7 +97,7 @@ The Read-Ask-Search method works.
 **Thoughts**:  Suppose not great but there is progress 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show-the-local-weather.html)
 
 ## Day 10 January 13, 2017, Friday
 ##### 
@@ -107,7 +107,7 @@ The Read-Ask-Search method works.
 **Thoughts**: 
 
 **Link(s) to work**: 
-1. [Show the Local Weather](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Show the Local Weather](https://stepan20000.github.io/show-the-local-weather.html)
 
 ## Day 11 January 14, 2017, Saturday
 ##### 
@@ -117,7 +117,7 @@ The Read-Ask-Search method works.
 **Thoughts**: I did not think today :)
 
 **Link(s) to work**: 
-1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia-viewer.html)
 
 ## Day 12 January 15, 2017, Sunday
 ##### 
@@ -127,7 +127,7 @@ The Read-Ask-Search method works.
 **Thoughts**: I still do not know so many things. Very much to learn.
 
 **Link(s) to work**: 
-1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia-viewer.html)
 
 ## Day 13 January 16, 2017, Monday
 ##### 
@@ -137,7 +137,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Need to work more. 
 
 **Link(s) to work**: 
-1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia-viewer.html)
 
 ## Day 14 January 17, 2017, Tuesday
 ##### 
@@ -147,7 +147,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Somehow everything was easy 
 
 **Link(s) to work**: 
-1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia-viewer.html)
 
 ## Day 15 January 18, 2017, Wednesday
 ##### 
@@ -157,7 +157,7 @@ The Read-Ask-Search method works.
 **Thoughts**: At the moment the thing most hard for me is the styling.
 
 **Link(s) to work**: 
-1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia-viewer.html)
 
 ## Day 16 January 19, 2017, Thursday
 ##### 
@@ -167,7 +167,7 @@ The Read-Ask-Search method works.
 **Thoughts**: Not bad :)
 
 **Link(s) to work**: 
-1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
+1. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia-viewer.html)
 
 ## Day 17 January 20, 2017, Friday
 ##### 
@@ -324,8 +324,8 @@ Finished Twitchtv project. Did all I planned yesterday.
 
 **Link(s) to work**: 
 1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/twitchtv.html)
-2. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia_viewer.html)
-3. [Tribute page](https://stepan20000.github.io/tribute_page.html)
+2. [Build a Wikipedia Viewer](https://stepan20000.github.io/wikipedia-viewer.html)
+3. [Tribute page](https://stepan20000.github.io/tribute-page.html)
 
 ## Day 31 February 3, 2017, Friday
 ##### 
@@ -340,8 +340,8 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Thoughts**: Should think about rebuilding my portfolio 
 
 **Link(s) to work**: 
-1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/random_quote_machine.html)
-2. [Build a Wikipedia Viewer](https://stepan20000.github.io/show_the_local_weather.html)
+1. [Use the Twitch.tv JSON API](https://stepan20000.github.io/random-quote-machine.html)
+2. [Build a Wikipedia Viewer](https://stepan20000.github.io/show-the-local-weather.html)
 3. [Intermediate Algorithm Scripting](https://github.com/stepan20000/IntermediateAlgorithmScripting)
 
 
@@ -424,12 +424,12 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 ## Day 39 February 11, 2017, Saturday
 ##### 
 
-**Today's Progress**: Started to work with portfolio_ver_0
+**Today's Progress**: Started to work with portfolio-ver-0
 
 **Thoughts**:
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 40 February 12, 2017, Sunday
 ##### 
@@ -441,22 +441,22 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 ## Day 41 February 13, 2017, Monday
 ##### 
 
-**Today's Progress**: Worked on the portfolio_ver_0.  Made the worksList.js - the array of the Works objects. 
+**Today's Progress**: Worked on the portfolio-ver-0.  Made the worksList.js - the array of the Works objects. 
 
 **Thoughts**:
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 42 February 14, 2017, Tuesday
 ##### 
 
-**Today's Progress**: Worked on the portfolio_ver_0 again. For now can dynamically fill in the "works" section. Try to work with flexbox. Use Clearfix and resetCSS. 
+**Today's Progress**: Worked on the portfolio-ver-0 again. For now can dynamically fill in the "works" section. Try to work with flexbox. Use Clearfix and resetCSS. 
 
 **Thoughts**: The make up is still hard for me. I am disquieted about the very low speed of progress. It is not hard to understand a things but hard to use it, hard to create a real web pages. 
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 43 February 15, 2017, Wednesday
 ##### 
@@ -473,7 +473,7 @@ Free Code Camp's Intermediate Algorithm Scripting Section:
 **Today's Progress**: Optimized the Symmetric Difference task script from Advanced Algorithm Scripting Section.
 Make the arrays provided as argumments to contains unique value before start found the  Symmetric Difference.
 
-Worked a bit with portfolio_ver_0:
+Worked a bit with portfolio-ver-0:
 - Correctly zoomed and placed the single-work divs 
 - Started to figure out how to make animation which I want.
 
@@ -482,13 +482,13 @@ Worked a bit with portfolio_ver_0:
 
 **Link(s) to work**: 
 1. [Advanced Algorithm Scripting](https://github.com/stepan20000/AdvancedAlgorithmScripting)
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 
 ## Day 45 February 17, 2017, Friday
 ##### 
 
-**Today's Progress**: Worked agin with portfolio_ver_0:
+**Today's Progress**: Worked agin with portfolio-ver-0:
 - Positioned single work divs with the flexbox
 - Make single work's animation
 
@@ -496,7 +496,7 @@ Worked a bit with portfolio_ver_0:
 
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 46 February 18, 2017, Saturday
 ##### 
@@ -512,13 +512,13 @@ Worked a bit with portfolio_ver_0:
 ## Day 47 February 19, 2017, Sunday
 ##### 
 
-**Today's Progress**: Made the portfolio_ver_0 a bit more adaptive using @media.
+**Today's Progress**: Made the portfolio-ver-0 a bit more adaptive using @media.
 
 **Thoughts**: 
 
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 48 February 20, 2017, Monday
 ##### 
@@ -529,7 +529,7 @@ Worked a bit with portfolio_ver_0:
 
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 49 February 21, 2017, Tuesday
 ##### 
@@ -542,7 +542,7 @@ Worked a bit with portfolio_ver_0:
 
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 50 February 22, 2017, Wednesday
 ##### 
@@ -552,7 +552,7 @@ Worked a bit with portfolio_ver_0:
 **Thoughts**: The most complicated thing for me is design. 
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 51 February 23, 2017, Thursday
 ##### 
@@ -610,7 +610,7 @@ Worked a bit with portfolio_ver_0:
 **Thoughts**:  
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 56 March 01, 2017, Wednesday
 #####
@@ -621,7 +621,7 @@ Made the event.preventDefault work for the back-to-top button.
 **Thoughts**:  
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 
 ## Day 57 March 02, 2017, Thursday
@@ -632,7 +632,7 @@ Made the event.preventDefault work for the back-to-top button.
 **Thoughts**:  
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 58 March 03, 2017, Friday
 #####
@@ -642,7 +642,7 @@ Made the event.preventDefault work for the back-to-top button.
 **Thoughts**:  
 
 **Link(s) to work**: 
-1. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+1. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 
 ## Day 59 March 04, 2017, Saturday
@@ -689,7 +689,7 @@ Made the event.preventDefault work for the back-to-top button.
 ## Day 63 March 09, 2017, Thursday
 #####
 
-**Today's Progress**: Make the function MakeCalc.prototype._showOnScreen which displays on the screen the number given as a parameter. This function is not competed.
+**Today's Progress**: Make the function MakeCalc.prototype.-showOnScreen which displays on the screen the number given as a parameter. This function is not competed.
 
 **Thoughts**:  I want my calculator works similar to the Elektronica MK-23A. When the result is more than 99999999 it should display the value without last digits and all dots should be visible. Then after pressing the "Clear" button the only one dot in place which correspond the number of digits which are not displayed should be visible. 
 
@@ -705,7 +705,7 @@ Then event handler which correspond to the "Clear" button will read this flag
 ## Day 64 March 10, 2017, Friday
 #####
 
-**Today's Progress**: Now _showOnScreen function really working normal. And I started to make keyboard.
+**Today's Progress**: Now -showOnScreen function really working normal. And I started to make keyboard.
 
 **Thoughts**:  Everything goes different than I planned first. It is really interesting.
 
@@ -736,20 +736,20 @@ Then event handler which correspond to the "Clear" button will read this flag
 ## Day 68 March 14, 2017, Tuesday
 #####
 
-**Today's Progress**: Think that I have finished the portfolio_ver_0.
+**Today's Progress**: Think that I have finished the portfolio-ver-0.
 Searched and fixed bugs in the calculator. Think that there are still enough bugs
 
 **Thoughts**:  
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
-2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+2. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 69 March 15, 2017, Wednesday
 #####
 
 **Today's Progress**: 
-Made portfolio_ver_0-1 with white background. 
+Made portfolio-ver-0-1 with white background. 
 Fixed next bugs in portfolio:
 - Remove the height: 100% CSS property from single-work image (the images was very long on android mobile devices)
 - Rebuild the makeScrolling function, made scrolling smoothly not only in Firefox but also in IE, Opera and Chrome
@@ -758,18 +758,18 @@ Fixed next bugs in portfolio:
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
-2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+2. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 70 March 16, 2017, Thursday
 #####
 
-**Today's Progress**: Finished portfolio_ver_0 and portfolio_ver_0-1. Also finished calculator.
+**Today's Progress**: Finished portfolio-ver-0 and portfolio-ver-0-1. Also finished calculator.
 
 **Thoughts**:  Have a bug, calculator does't work on Android default browser (but works on android Chrome)! Will try to fix it using Chrome developer tools and USB debug. 
 
 **Link(s) to work**: 
 1. [Calculator](https://github.com/stepan20000/stepan20000.github.io/blob/master/calculator.html)
-2. [Portfolio_ver_0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio_ver_0.html)
+2. [Portfolio-ver-0](https://github.com/stepan20000/stepan20000.github.io/blob/master/portfolio-ver-0.html)
 
 ## Day 71 March 17, 2017, Friday
 #####
